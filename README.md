@@ -1,4 +1,4 @@
-# familyGan
+# Genarating Child Faces From DAD and MOM
 
 Benchmarking stylegan_plus
  - [X] ResNet
@@ -18,6 +18,7 @@ some references:
 - [ChildGAN that didn't end up well](https://github.com/mingu600/childGAN)
 - [Another ChildGAN that didn't end up well](https://github.com/munozalexander/Child-Face-Generation)
 - [image2styletransfare GAN](https://arxiv.org/abs/1904.03189)
+- [Article](https://medium.com/swlh/familygan-generating-a-childs-face-using-his-parents-394d8face6a4)
 
 Datasets:
 - [Fiwkinship](https://web.northeastern.edu/smilelab/fiwkinship) - try downloading from this [link](https://www.google.com/url?q=https://1drv.ms/u/s!AkDk_XdBkJ9whlQQkd2rOXSREro-&sa=D&ust=1567577791511000&usg=AFQjCNFUuKCPHpFajsnMWXgNKNq2eHVo4A). I didn't succeed in downloading it.
